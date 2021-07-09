@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.cpp(28): warning C4101: “PGA1”: 未引用的局部变量
+main.cpp(28): warning C4101: “PGA2”: 未引用的局部变量
+  正在生成代码
+  566 of 680 functions (83.2%) were compiled, the rest were copied from previous compilation.
+    308 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ProcessGM_Japan.vcxproj -> E:\code\C++\0-region\ProcessGM_Japan\Release\ProcessGM_Japan.exe
+  ProcessGM_Japan.vcxproj -> E:\code\C++\0-region\ProcessGM_Japan\Release\ProcessGM_Japan.pdb (Full PDB)
